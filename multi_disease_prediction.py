@@ -97,15 +97,15 @@ if (selected == 'Diabetes Prediction'):
      
 
 
-    st.write(f'''
-    <a target="_self" href="http://localhost/find/">
-        <button>
-            Find Hospitals
-        </button>
-    </a>
-    ''',
-    unsafe_allow_html=True
-    )
+#     st.write(f'''
+#     <a target="_self" href="http://localhost/find/">
+#         <button>
+#             Find Hospitals
+#         </button>
+#     </a>
+#     ''',
+#     unsafe_allow_html=True
+#     )
 
 
 
@@ -198,15 +198,15 @@ if (selected == 'Heart Disease Prediction'):
     except ValueError:
         st.error("Please enter a valid input. All fields are mandatory")
         
-    st.write(f'''
-    <a target="_self" href="http://localhost/find/">
-        <button>
-            Find Hospitals
-        </button>
-    </a>
-    ''',
-    unsafe_allow_html=True
-    )
+#     st.write(f'''
+#     <a target="_self" href="http://localhost/find/">
+#         <button>
+#             Find Hospitals
+#         </button>
+#     </a>
+#     ''',
+#     unsafe_allow_html=True
+#     )
         
     
     
