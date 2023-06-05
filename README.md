@@ -20,5 +20,11 @@ Upadate file paths in all files as where those files are residing in your system
 
 Run the streamlit app using:
   streamlit run "C:\Users\HP\hackathon\multi_disease_prediction.py"
+   Update file path here also respective to your file path.
+   
   
-  Update file path here also respective to your file path.
+  ![result1](https://github.com/Marshajennifer/Disease-prediction-diabetes-and-heart-disease-using-Machine-Learning-and-Python-/assets/26388499/413083dd-024c-4c2a-8ad9-03018c7ac56e)
+![result2](https://github.com/Marshajennifer/Disease-prediction-diabetes-and-heart-disease-using-Machine-Learning-and-Python-/assets/26388499/500f3cd6-ba11-4094-80f5-a36666850ee6)
+
+  
+ 
